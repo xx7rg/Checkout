@@ -34,6 +34,8 @@ jobs:
         run: npm ci
 
       - name: Gerar o site
+        env:
+          VITE_BASE_PATH: /${{ github.event.repository.name }}/
         run: npm run build
 
       - name: Configurar o GitHub Pages

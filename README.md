@@ -136,6 +136,6 @@ checkout-x7rg/
 
 ---
 
-<div align="center">
-  Desenvolvido por <a href="https://github.com/xx7rg"><strong>Rogério Gomes</strong></a> como projeto de estudo e experiência visual.
-</div>
+## Autoria
+
+Desenvolvido por **x7rG Enterprise** — [@_7Ragnar](https://www.instagram.com/_7ragnar/) · [LinkedIn](https://www.linkedin.com/in/rgds/)
