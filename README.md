@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://xx7rg.github.io/checkout-x7rg/"><strong>Abrir demonstração</strong></a>
+    <a href="https://checkout-x7rg.contato-rgsantos.workers.dev"><strong>Abrir demonstração</strong></a>
     ·
     <a href="Manual_Didatico_Checkout_X7RG.docx"><strong>Baixar manual didático</strong></a>
   </p>
