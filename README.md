@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/favicon.svg" alt="Logo X7RG" width="72" />
+  <img src="public/x7rg-enterprise-emblem.png" alt="Logo oficial x7rG Enterprise" width="140" />
 
   <h1>Checkout X7RG</h1>
 
