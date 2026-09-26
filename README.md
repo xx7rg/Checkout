@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5.9" />
     <img src="https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite 8" />
     <img src="https://img.shields.io/badge/CSS-3D%20%2B%20Animations-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS 3D e animações" />
-    <img src="https://img.shields.io/badge/status-protótipo-7C3AED?style=flat-square" alt="Status: protótipo" />
+    <img src="https://img.shields.io/badge/status-prot%C3%B3tipo-7C3AED?style=flat-square" alt="Status: protótipo" />
   </p>
 </div>
 
@@ -89,14 +89,14 @@ Para explorar as bandeiras no modo demonstrativo, comece o número do cartão co
 
 ### Pré-requisitos
 
-- Node.js `22.13.0` ou superior;
+- Node.js `22.12.0` ou superior (recomendado), ou Node.js `20.19.0` ou superior na linha 20;
 - npm.
 
 ### Instalação
 
 ```bash
-git clone https://github.com/xx7rg/checkout-x7rg.git
-cd checkout-x7rg
+git clone https://github.com/xx7rg/Checkout.git
+cd Checkout
 npm install
 npm run dev
 ```
@@ -106,7 +106,7 @@ Abra no navegador o endereço exibido no terminal, normalmente `http://localhost
 ## Estrutura principal
 
 ```text
-checkout-x7rg/
+Checkout/
 ├── app/
 │   ├── page.tsx          # Interface, estados, validações e cálculos
 │   └── globals.css       # Layout, cartão 3D e animações
